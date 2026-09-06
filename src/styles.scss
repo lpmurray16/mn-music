@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Fascinate&family=Shrikhand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700;800;900&display=swap');
 
 :root {
-  color-scheme: light;
+  color-scheme: dark;
   font-family: 'DM Sans', Arial, sans-serif;
-  background: #f3e8d0;
-  color: #2a130f;
+  background: #080808;
+    color: #f5f3ee;
   font-synthesis: none;
   text-rendering: optimizeLegibility;
 }
@@ -33,8 +33,8 @@ select {
 }
 
 ::selection {
-  background: #e34383;
-  color: #fff8e8;
+  background: #f5f3ee;
+    color: #080808;
 }
 
 @media (prefers-reduced-motion: reduce) {
